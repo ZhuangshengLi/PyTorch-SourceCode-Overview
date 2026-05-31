@@ -53,15 +53,13 @@
 
 - [x] [DistributedDataParallel (DDP)](https://github.com/ZhuangshengLi/PyTorch-SourceCode-Overview/wiki/数据并行)
 
+- [x] [torch.optim优化器与参数更新机制](https://github.com/Beater-0x7ff/PyTorch-SourceCode-Overview/wiki/torch.optim)
+
+- [x] [torch.amp自动混合精度（AMP)](https://github.com/Beater-0x7ff/PyTorch-SourceCode-Overview/wiki/AMP-%E8%87%AA%E5%8A%A8%E6%B7%B7%E5%90%88%E7%B2%BE%E5%BA%A6)
+
 ---
 
 ## 计划更新
-
-- [ ] torch.optim  
-      优化器与参数更新机制
-
-- [ ] torch.cuda.amp  
-      自动混合精度（AMP）
 
 - [ ] cpp_extension  
       C++ / CUDA 自定义算子实现与调用
@@ -71,5 +69,3 @@
 
 - **Python**: 3.10
 - **PyTorch**: 2.12.0
-
-
